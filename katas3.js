@@ -4,24 +4,28 @@ function kata1() {
     for (let i = 1; i <= 25; i++) {
         console.log(i);
     }
+    return undefined;
 }
 
 function kata2() {
     for (let i = 25; i >= 1; i--) {
         console.log(i);
     }
+    return undefined;
 }
 
 function kata3() {
     for (let i = -1; i >= -25; i--) {
         console.log(i);
     }
+    return undefined;
 }
 
 function kata4() {
     for (let i = -25; i <= -1; i++) {
         console.log(i);
     }
+    return undefined;
 }
 
 function kata5() {
@@ -30,6 +34,7 @@ function kata5() {
             console.log(i);
         }
     }
+    return undefined;
 }
 
 function kata6() {
@@ -38,6 +43,7 @@ function kata6() {
             console.log(i);
         }
     }
+    return undefined;
 }
 function kata7() {
     for (let i = 7; i <= 100; i++) {
@@ -45,6 +51,7 @@ function kata7() {
             console.log(i);
         }
     }
+    return undefined;
 }
 
 function kata8() {
@@ -53,6 +60,7 @@ function kata8() {
             console.log(i);
         }
     }
+    return undefined;
 }
 
 function kata9() {
@@ -61,12 +69,14 @@ function kata9() {
             console.log(i);
         }
     }
+    return undefined;
 }
 
 function kata10() {
     for (let i = 0; i < sampleArray.length; i++) {
         console.log(sampleArray[i]);
     }
+    return undefined;
 }
 
 function kata11() {
@@ -75,6 +85,7 @@ function kata11() {
             console.log(sampleArray[i]);
         }
     }
+    return undefined;
 }
 
 function kata12() {
@@ -83,6 +94,7 @@ function kata12() {
             console.log(sampleArray[i]);
         }
     }
+    return undefined;
 }
 
 function kata13() {
@@ -91,12 +103,14 @@ function kata13() {
             console.log(sampleArray[i]);
         }
     }
+    return undefined;
 }
 
 function kata14() {
     for (let i = 0; i < sampleArray.length; i++) {
         console.log((sampleArray[i] * sampleArray[i]));
     }
+    return undefined;
 }
 
 function kata15() {
