@@ -6,6 +6,7 @@ function kata1() {
     }
     return undefined;
 }
+kata1();
 
 function kata2() {
     for (let i = 25; i >= 1; i--) {
@@ -13,6 +14,7 @@ function kata2() {
     }
     return undefined;
 }
+kata2();
 
 function kata3() {
     for (let i = -1; i >= -25; i--) {
@@ -20,6 +22,7 @@ function kata3() {
     }
     return undefined;
 }
+kata3();
 
 function kata4() {
     for (let i = -25; i <= -1; i++) {
@@ -27,6 +30,7 @@ function kata4() {
     }
     return undefined;
 }
+kata4();
 
 function kata5() {
     for (let i = 25; i >= -25; i--) {
@@ -36,6 +40,7 @@ function kata5() {
     }
     return undefined;
 }
+kata5();
 
 function kata6() {
     for (let i = 3; i <= 100; i++) {
@@ -45,6 +50,8 @@ function kata6() {
     }
     return undefined;
 }
+kata6();
+
 function kata7() {
     for (let i = 7; i <= 100; i++) {
         if (i % 7 == 0) {
@@ -53,6 +60,7 @@ function kata7() {
     }
     return undefined;
 }
+kata7();
 
 function kata8() {
     for (let i = 100; i >= 3; i--) {
@@ -62,6 +70,7 @@ function kata8() {
     }
     return undefined;
 }
+kata8();
 
 function kata9() {
     for (let i = 5; i <= 100; i++) {
@@ -71,6 +80,7 @@ function kata9() {
     }
     return undefined;
 }
+kata9();
 
 function kata10() {
     for (let i = 0; i < sampleArray.length; i++) {
@@ -78,6 +88,7 @@ function kata10() {
     }
     return undefined;
 }
+kata10();
 
 function kata11() {
     for (let i = 0; i < sampleArray.length; i++) {
@@ -87,6 +98,7 @@ function kata11() {
     }
     return undefined;
 }
+kata11();
 
 function kata12() {
     for (let i = 0; i < sampleArray.length; i++) {
@@ -96,6 +108,7 @@ function kata12() {
     }
     return undefined;
 }
+kata12();
 
 function kata13() {
     for (let i = 0; i < sampleArray.length; i++) {
@@ -105,6 +118,7 @@ function kata13() {
     }
     return undefined;
 }
+kata13();
 
 function kata14() {
     for (let i = 0; i < sampleArray.length; i++) {
@@ -112,6 +126,7 @@ function kata14() {
     }
     return undefined;
 }
+kata14();
 
 function kata15() {
     let total = 0;
@@ -120,6 +135,7 @@ function kata15() {
     }
     return total;
 }
+kata15();
 
 function kata16() {
     let valor = 0;
@@ -130,6 +146,7 @@ function kata16() {
     }
     return valor;
 }
+kata16();
 
 function kata17() {
     let menor = sampleArray[0];
@@ -140,6 +157,7 @@ function kata17() {
     }
     return menor;
 }
+kata17();
 
 function kata18() {
     let maior = sampleArray[0];
@@ -150,6 +168,7 @@ function kata18() {
     }
     return maior;
 }
+kata18();
 
 /**
  * Daqui em diante são os bônus, por sua conta e risco
