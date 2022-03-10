@@ -135,7 +135,7 @@ function kata15() {
     }
     return total;
 }
-kata15();
+console.log(kata15());
 
 function kata16() {
     let valor = 0;
@@ -146,7 +146,7 @@ function kata16() {
     }
     return valor;
 }
-kata16();
+console.log(kata16());
 
 function kata17() {
     let menor = sampleArray[0];
@@ -157,7 +157,7 @@ function kata17() {
     }
     return menor;
 }
-kata17();
+console.log(kata17());
 
 function kata18() {
     let maior = sampleArray[0];
@@ -168,7 +168,7 @@ function kata18() {
     }
     return maior;
 }
-kata18();
+console.log(kata18());
 
 /**
  * Daqui em diante são os bônus, por sua conta e risco
